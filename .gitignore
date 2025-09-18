@@ -1,6 +1,7 @@
 *.log
 /docs/User_Manual/
 *-*.txt
+!repo-location.txt
 styles.css
 /docs/Software_Requirement_Specification/SRS_*.docx
 !/docs/Software_Requirement_Specification/SRS_final.docx
